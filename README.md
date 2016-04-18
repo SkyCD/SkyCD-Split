@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?maxAge=2592000)]() [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
+![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?maxAge=2592000) [![license](https://img.shields.io/badge/license-New%20BSD-blue.svg)](License.txt)
 # SkyCD Split
 
 A tool for spliting SkyCD text files.
