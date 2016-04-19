@@ -1,6 +1,8 @@
-![GitHub release](https://img.shields.io/github/release/SkyCD/skycd-split.svg?maxAge=2592000) [![License](https://img.shields.io/github/license/SkyCD/SkyCD-Split.svg?maxAge=2592000)](License.txt)
+[![Download SkyCD Split](https://img.shields.io/sourceforge/dt/skycd/split.svg)](https://sourceforge.net/projects/split.skycd.p/files/latest/download) [![License](https://img.shields.io/github/license/SkyCD/SkyCD-Split.svg?maxAge=2592000)](License.txt)
 # SkyCD Split
 
 A tool for spliting SkyCD text files.
 
-![](https://github.com/SkyCD/skycd-split/blob/master/screenshots/1.png?raw=true)
+![](https://a.fsdn.com/con/app/proj/split.skycd.p/screenshots/1.png)
+
+[![Download SkyCD Split](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/split.skycd.p/files/latest/download)
